@@ -1,0 +1,15 @@
+Google search -> Show search results (url) and open most relevent site
+speech to text
+Play Music - Youtube or Spotify
+Close applications on command
+Add timezone to reset.py
+
+Tell the time, date, day, week
+
+
+If possible
+Show top awnser on stackoverflow
+Check and log pc temps
+
+Bugs:
+settingsGui changes name to nothing when pressing save when nothing is in the "name" tab

@@ -1,0 +1,3 @@
+distutils - settingsGui.py
+speech_recognition - STP.py
+pyttsx3 - STP.py

@@ -1,0 +1,6 @@
+name=wille;
+language=sv;
+timezone=null;
+tts=True;
+startUp=True; 
+speechLanguage=sv-SE;
